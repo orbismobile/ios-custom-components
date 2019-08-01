@@ -47,6 +47,7 @@
 		49CF700522F3333E0079C37C /* iOSCustomComponentsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSCustomComponentsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		49CF700922F3333E0079C37C /* iOSCustomComponentsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOSCustomComponentsUITests.swift; sourceTree = "<group>"; };
 		49CF700B22F3333E0079C37C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49CF701722F3357B0079C37C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +78,7 @@
 		49CF6FDD22F3333C0079C37C = {
 			isa = PBXGroup;
 			children = (
+				49CF701722F3357B0079C37C /* README.md */,
 				49CF6FE822F3333C0079C37C /* iOSCustomComponents */,
 				49CF6FFD22F3333E0079C37C /* iOSCustomComponentsTests */,
 				49CF700822F3333E0079C37C /* iOSCustomComponentsUITests */,
